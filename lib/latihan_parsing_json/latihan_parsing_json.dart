@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-void main() {
+void latihanParsingJson() {
   /// Initiate JSON Data
   final String jsonData = """{
     "id": 167,
